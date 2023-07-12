@@ -1,4 +1,4 @@
-# Title of Project: Gender Pay Gap Analysis#
+# Title of Project: Gender Pay Gap Analysis
 
 ## OVERVIEW ##
  
